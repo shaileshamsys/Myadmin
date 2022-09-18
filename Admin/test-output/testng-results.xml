@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13223" started-at="2022-09-18T11:40:47Z" finished-at="2022-09-18T11:41:00Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13223" started-at="2022-09-18T11:40:47Z" finished-at="2022-09-18T11:41:00Z">
+      <class name="Org.Amsys.Admin_Login">
+        <test-method status="PASS" signature="Validlogin()[pri:0, instance:Org.Amsys.Admin_Login@604ed9f0]" name="Validlogin" duration-ms="13191" started-at="2022-09-18T17:10:47Z" finished-at="2022-09-18T17:11:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Validlogin -->
+      </class> <!-- Org.Amsys.Admin_Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
